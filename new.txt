@@ -1,2 +1,3 @@
 "git" status megmutatatja a státuszt "echo" létrehoz egy fájlt
 
+"git add ." hozz ad minden £j f jlt 
