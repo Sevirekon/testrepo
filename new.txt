@@ -1,0 +1,2 @@
+"git" status megmutatatja a státuszt "echo" létrehoz egy fájlt
+
